@@ -81,6 +81,7 @@ Wedding planning is a logistics problem wearing a nice dress: a guest list that 
 - [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
 - [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and SaaS for startup founders — incorporation, finance, hiring, and growth.
 - [Awesome Award Travel](https://awesomedirectory.github.io/awesome-award-travel/) - Tools for finding award flights, tracking points and miles, and maximizing credit card rewards — useful for the honeymoon.
+- [Awesome Gift Guides](https://awesomedirectory.github.io/awesome-gift-guides/) - Gift guides, gift finders, wishlist and registry tools, and gift exchange organizers — for wedding party and guest gifts.
 - [Awesome Private Practice](https://awesomedirectory.github.io/awesome-private-practice/) - Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices.
 
 ## Contributing
